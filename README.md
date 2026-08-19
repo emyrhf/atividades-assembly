@@ -70,9 +70,9 @@ Os exercícios estão organizados em três diretórios numerados, cada um corres
 
 | Diretório | Conteúdo | Quantidade de arquivos |
 |---|---|---|
-| `1/` | Primeira lista de exercícios individuais (`Exercicio1` a `Exercicio12`) | 12 |
-| `2/` | Segunda lista de exercícios (`Lista2`, itens 1 a 6) | 6 |
-| `3/` | Terceira lista de exercícios (`Lista Assembly 2`, itens `Ex1` a `Ex8`) | 8 |
+| `Lista1/` | Primeira lista de exercícios individuais (`Exercicio1` a `Exercicio12`) | 12 |
+| `Lista2/` | Segunda lista de exercícios (`Lista2`, itens 1 a 6) | 6 |
+| `Lista3/` | Terceira lista de exercícios (`Lista Assembly 2`, itens `Ex1` a `Ex8`) | 8 |
 
 Cada arquivo `.s` é autocontido: representa a solução de um exercício específico e pode ser aberto e executado individualmente no MARS, sem dependências entre arquivos.
 
