@@ -111,4 +111,4 @@ O MARS é distribuído como um arquivo `.jar` único e não requer instalação 
 |---|---|---|
 | Autora | Emily Rharysa | emyrhf.dev@gmail.com |
 
-**Repositório:** (https://github.com/emyrhf/atividades-assembly)
+**Repositório:** [Atividades Assembly](https://github.com/emyrhf/atividades-assembly)
